@@ -1,1 +1,1 @@
-# jaguar_SDM_Ecological_Solutions_and_Evidence
+### Too close or too far? Effects of presence filtering in jaguar (*Panthera onca*) distribution models
